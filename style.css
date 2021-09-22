@@ -1,0 +1,56 @@
+* {
+    margin:0;
+}
+body {
+    background: yellow ;
+    z-index:-2;
+    padding:0;
+    margin: 0;
+}
+
+
+.container h1{
+    text-align: center;
+    font-size: 75px;
+}
+.header { 
+    
+    background:url(../矢上祭写真2021\ .png) center center / 75% no-repeat;
+    
+    height: 600px;
+    text-align:center;
+    margin:0;
+}
+
+.body {
+    padding:0;
+    margin:0;
+    height:500px;
+    background: linear-gradient(yellow, aqua);
+    text-align: center;
+}
+
+.body h1{
+    padding-top:50px;
+}
+
+.body .box{
+    margin-top:40px;
+    padding-top:75px;
+    background:white;
+    height: 150px; 
+    width:300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    text-align: center;
+    height:100px;
+    background:cornflowerblue;
+    
+}
+.footer p{
+    color: cyan;
+    padding-top:20px;
+}
